@@ -1,7 +1,6 @@
 function myLocalScope() {
   // Only change code below this line
-  var myVar = 0
-
+var myVar = 0
   console.log('inside myLocalScope', myVar);
 }
 myLocalScope();
